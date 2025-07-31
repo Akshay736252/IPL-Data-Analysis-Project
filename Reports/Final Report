@@ -1,0 +1,15 @@
+1. Project Overview
+This project focuses on analyzing the cricket career of Virat Kohli, especially his performances in the Indian Premier League (IPL). I wanted to go beyond just watching matches and explore how data can tell a story about a player's journey over the years. So, I used real datasets containing Kohli’s yearly and match-wise statistics and performed a detailed analysis using Python and its libraries like Pandas, Matplotlib, and Seaborn.
+The project is divided into multiple parts:
+
+First, I loaded and cleaned the data to make sure everything was consistent and ready for analysis.
+
+Then I explored how his performance changed over time—looking at runs, averages, centuries, strike rate, and highest scores.
+
+I visualized these trends through clear charts and graphs to identify strong and weak phases in his career.
+
+I gave special attention to his IPL journey, analyzing his performance season by season.
+
+Finally, I created a Power BI dashboard that gives an interactive view of all these insights.
+
+Through this project, I learned how to work with real-world data, clean it, analyze it, and present it in a visually meaningful way. It was a great hands-on experience that combined my interest in cricket with my growing skills in data analytics. This kind of analysis can help fans, analysts, and even coaches understand player trends and make better decisions.
